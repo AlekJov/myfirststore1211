@@ -1,3 +1,4 @@
-password: shptka_9e4a50a59d504186dddd9e47e4aab42c
-theme_id: 153088295222
-store:  myfirststore1211.myshopify.com
+development:
+  password: shptka_9e4a50a59d504186dddd9e47e4aab42c
+  theme_id: "153088295222"
+  store: myfirststore1211.myshopify.com
